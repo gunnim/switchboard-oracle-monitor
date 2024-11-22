@@ -1,0 +1,17 @@
+{
+  "name": "oracle-alerter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.5",
+    "@switchboard-xyz/solana.js": "^3.2.5",
+    "node-notifier": "^10.0.1"
+  }
+}
